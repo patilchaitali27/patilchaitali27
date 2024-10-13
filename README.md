@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [MY GitHub]
+- 👨‍💻 All of my projects are available at [patilchaitali27]
 
 - 📫 How to reach me **patilchaitali079@gmail.com**
 
