@@ -6,130 +6,134 @@
   <img src="https://komarev.com/ghpvc/?username=patilchaitali27&label=Profile%20views&color=0e75b6&style=flat" alt="patilchaitali27" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/patil-chaitali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/patilchaitali27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:patilchaitali079@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
 I'm a **Full Stack Developer from India** passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 
-* 💻 Currently working with **React.js, C#/.NET, ASP.NET, REST APIs and SQL Server**
-* 🔧 Experienced in developing **frontend forms, validations, API integrations and backend services**
-* 🗄️ Comfortable working with **SQL Server, stored procedures, MySQL, PostgreSQL and MongoDB**
-* 🐛 Experienced in debugging and resolving **frontend, backend and database issues**
-* 🔄 Working with **API payloads, data mapping and database persistence**
-* 🌱 Continuously improving my skills in **Full Stack Development and Software Engineering**
-* 👨‍💻 All of my projects are available at <a href="https://github.com/patilchaitali27" target="_blank">My GitHub</a>
-* 📫 How to reach me **[patilchaitali079@gmail.com](mailto:patilchaitali079@gmail.com)**
+- 💻 Currently working with **React.js, C#/.NET, ASP.NET, REST APIs, and SQL Server**
+- 🔧 Experienced in developing **frontend forms, validations, API integrations, and backend services**
+- 🗄️ Comfortable with **SQL Server, stored procedures, MySQL, PostgreSQL, and MongoDB**
+- 🐛 Proficient in debugging and resolving **frontend, backend, and database issues**
+- 🔄 Expert in handling **API payloads, data mapping, and database persistence**
+- 🌱 Continuously improving my skills in **Full Stack Development and Software Engineering**
+- 💡 Building complete **end-to-end full-stack web applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
 </p>
 
 ### Backend
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
 </p>
 
 ### Database
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
 </p>
 
-### Tools & Technologies
-
+### Tools & Version Control
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </p>
-
-**Also familiar with:**
-C#, ASP.NET, ASP.NET Core, Web API, Entity Framework Core, ADO.NET, JDBC, JSP/Servlets, REST APIs, TypeScript, Aceternity UI, Postman, Visual Studio and VS Code.
 
 ---
 
-## 🚀 What I Work On
+## 🚀 Key Expertise
 
-* ⚛️ Building responsive and interactive **React.js applications**
-* 🔗 Developing and integrating **RESTful APIs**
-* 🧩 Building backend services using **C#/.NET and ASP.NET**
-* 🗃️ Working with **SQL Server and stored procedures**
-* ✅ Implementing frontend and backend **validation and business logic**
-* 🔄 Handling **API payloads, data mapping and database persistence**
-* 🐛 Debugging **frontend, backend and database issues**
-* 🌐 Developing complete **full-stack web applications**
+- ⚛️ Building responsive and interactive **React.js applications** with modern best practices
+- 🔗 Designing and integrating **RESTful APIs** with secure authentication & validation
+- 🧩 Developing scalable backend services using **C#/.NET and ASP.NET Core**
+- 🗃️ Optimizing database queries with **SQL Server and stored procedures**
+- ✅ Implementing robust **frontend and backend validation** with business logic
+- 🔄 Managing **API payloads, data transformation, and database persistence**
+- 🐛 Proficient in debugging and troubleshooting complex **multi-tier issues**
+- 🌐 Architecting complete **full-stack web applications** from concept to deployment
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilchaitali27&show_icons=true&locale=en&layout=compact" alt="patilchaitali27" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patilchaitali27&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilchaitali27&show_icons=true&locale=en" alt="patilchaitali27" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilchaitali27&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27" alt="patilchaitali27" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/patil-chaitali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/patilchaitali27" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.codechef.com/users/chaitali_27" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="45"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/patilchaitali079" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/patilchaitali_27" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/chaitupanpg6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="35" width="45"/>
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-⭐-yellow?style=for-the-badge" alt="Thanks for visiting" />
+</p>
