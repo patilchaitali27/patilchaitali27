@@ -77,14 +77,14 @@ I'm a **Full Stack Developer from India** passionate about building scalable web
 
 ## 🚀 Key Expertise
 
-- ⚛️ Building responsive and interactive **React.js applications** with modern best practices
-- 🔗 Designing and integrating **RESTful APIs** with secure authentication & validation
-- 🧩 Developing scalable backend services using **C#/.NET and ASP.NET Core**
-- 🗃️ Optimizing database queries with **SQL Server and stored procedures**
-- ✅ Implementing robust **frontend and backend validation** with business logic
-- 🔄 Managing **API payloads, data transformation, and database persistence**
-- 🐛 Proficient in debugging and troubleshooting complex **multi-tier issues**
-- 🌐 Architecting complete **full-stack web applications** from concept to deployment
+- Building responsive and interactive **React.js applications** with modern best practices
+- Designing and integrating **RESTful APIs** with secure authentication & validation
+- Developing scalable backend services using **C#/.NET and ASP.NET Core**
+- Optimizing database queries with **SQL Server and stored procedures**
+- Implementing robust **frontend and backend validation** with business logic
+- Managing **API payloads, data transformation, and database persistence**
+- Proficient in debugging and troubleshooting complex **multi-tier issues**
+- Architecting complete **full-stack web applications** from concept to deployment
 
 ---
 
