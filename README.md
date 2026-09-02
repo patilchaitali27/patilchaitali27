@@ -130,5 +130,5 @@ I'm a **Full Stack Developer from India** passionate about building scalable web
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-⭐-yellow?style=for-the-badge" alt="Thanks for visiting" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-⭐-Black?style=for-the-badge" alt="Thanks for visiting" />
 </p>
