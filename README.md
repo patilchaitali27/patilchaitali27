@@ -18,6 +18,16 @@
   </a>
 </p>
 
+<!-- Animated typing SVG (readme-typing-svg) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2B7489&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+web+applications.;React.js+%2B+.NET+%2B+SQL+Server" alt="Typing animation" />
+</p>
+
+<!-- Fun coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="coding animation" width="300" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
