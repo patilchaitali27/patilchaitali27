@@ -1,15 +1,29 @@
-# 👋 Hi, I'm Chaitali Patil
+<h1 align="center">Hello 👋, I'm Chaitali Patil</h1>
 
-### Full Stack Developer | React.js | C#/.NET | REST APIs | SQL Server
+<h3 align="center">Full Stack Developer | React.js | C#/.NET | REST APIs | SQL Server</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patilchaitali27&label=Profile%20views&color=0e75b6&style=flat" alt="patilchaitali27" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
+
+## 👩‍💻 About Me
 
 I'm a **Full Stack Developer from India** passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 
 * 💻 Currently working with **React.js, C#/.NET, ASP.NET, REST APIs and SQL Server**
 * 🔧 Experienced in developing **frontend forms, validations, API integrations and backend services**
 * 🗄️ Comfortable working with **SQL Server, stored procedures, MySQL, PostgreSQL and MongoDB**
+* 🐛 Experienced in debugging and resolving **frontend, backend and database issues**
+* 🔄 Working with **API payloads, data mapping and database persistence**
 * 🌱 Continuously improving my skills in **Full Stack Development and Software Engineering**
-* 👨‍💻 Check out my projects on **[GitHub](https://github.com/patilchaitali27)**
-* 📫 Reach me at **[patilchaitali079@gmail.com](mailto:patilchaitali079@gmail.com)**
+* 👨‍💻 All of my projects are available at <a href="https://github.com/patilchaitali27" target="_blank">My GitHub</a>
+* 📫 How to reach me **[patilchaitali079@gmail.com](mailto:patilchaitali079@gmail.com)**
 
 ---
 
@@ -64,54 +78,26 @@ C#, ASP.NET, ASP.NET Core, Web API, Entity Framework Core, ADO.NET, JDBC, JSP/Se
 * ⚛️ Building responsive and interactive **React.js applications**
 * 🔗 Developing and integrating **RESTful APIs**
 * 🧩 Building backend services using **C#/.NET and ASP.NET**
-* 🗃️ Designing database operations using **SQL Server and stored procedures**
+* 🗃️ Working with **SQL Server and stored procedures**
 * ✅ Implementing frontend and backend **validation and business logic**
-* 🔄 Working with API payloads, data mapping and database persistence
-* 🐛 Debugging and resolving **frontend, backend and database issues**
+* 🔄 Handling **API payloads, data mapping and database persistence**
+* 🐛 Debugging **frontend, backend and database issues**
 * 🌐 Developing complete **full-stack web applications**
-
----
-
-## 📌 Projects
-
-### 🏦 ATM Banking System
-
-**C# | .NET | ADO.NET | SQL Server**
-
-A banking application implementing core ATM operations and database connectivity.
-
-### 🏨 Hotel Reservation System
-
-**C# | ASP.NET | ADO.NET | SQL Server | Bootstrap**
-
-A web-based reservation application for managing hotel booking-related operations.
-
-### 🎓 Virtual Classroom System
-
-**C# | ASP.NET | SQL Server | HTML | CSS | Bootstrap**
-
-A web application designed to support online classroom and learning-related functionality.
-
-### 🚌 Online Bus Booking System
-
-**C# | ASP.NET | SQL Server | HTML | CSS | Bootstrap**
-
-A web-based application for managing bus schedules and online booking operations.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patilchaitali27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilchaitali27&show_icons=true&locale=en&layout=compact" alt="patilchaitali27" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patilchaitali27&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patilchaitali27&show_icons=true&locale=en" alt="patilchaitali27" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27" alt="patilchaitali27" />
 </p>
 
 ---
@@ -122,18 +108,23 @@ A web-based application for managing bus schedules and online booking operations
   <a href="https://www.linkedin.com/in/patil-chaitali" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+
   <a href="https://github.com/patilchaitali27" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
   </a>
+
   <a href="https://www.codechef.com/users/chaitali_27" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
   </a>
+
   <a href="https://www.hackerrank.com/patilchaitali079" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
+
   <a href="https://leetcode.com/patilchaitali_27" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
+
   <a href="https://auth.geeksforgeeks.org/user/chaitupanpg6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
