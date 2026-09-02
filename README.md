@@ -90,8 +90,6 @@ I'm a **Full Stack Developer from India** passionate about building scalable web
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27&theme=github-dark" 
@@ -105,27 +103,27 @@ I'm a **Full Stack Developer from India** passionate about building scalable web
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patil-chaitali" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/patilchaitali27" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.codechef.com/users/chaitali_27" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4D3D?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.hackerrank.com/patilchaitali079" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/patilchaitali_27" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/chaitupanpg6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="35" width="45"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
 
