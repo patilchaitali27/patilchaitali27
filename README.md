@@ -90,16 +90,13 @@ I'm a **Full Stack Developer from India** passionate about building scalable web
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patilchaitali27&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilchaitali27&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27&theme=github-dark" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=patilchaitali27&theme=github-dark" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
